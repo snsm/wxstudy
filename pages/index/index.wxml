@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<!--pages/user/user.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <block>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="/images/cxl.jpg" background-size="cover"></image>
+    </block>
+  </view>
+  <view class="button-sp-area" bindtap="shareTime"> 
+     <button class="weui-btn" type="primary"  plain="true">分享时光</button>
+  </view>
+</view>
