@@ -1,1 +1,2 @@
 <!--pages/home/home.wxml-->
+<button bindtap="playerMusciTap" class="weui-btn mini-btn" type="default" size="mini">播放音乐</button>

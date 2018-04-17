@@ -8,3 +8,5 @@
   padding: 240rpx 0;
   box-sizing: border-box;
 } 
+
+@import "./css/weui.wxss";
